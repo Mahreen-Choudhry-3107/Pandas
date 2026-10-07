@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Ali Khan", "age": 28, "city": "Lahore", "department": "Engineering", "salary": 85000, "join_date": "2021-03-15"},
+  {"id": 2, "name": "Sara Ahmed", "age": 34, "city": "Karachi", "department": "Marketing", "salary": 72000, "join_date": "2019-07-01"},
+  {"id": 3, "name": "Usman Raza", "age": 41, "city": "Islamabad", "department": "Finance", "salary": 95000, "join_date": "2016-11-20"},
+  {"id": 4, "name": "Ayesha Malik", "age": 26, "city": "Lahore", "department": "Design", "salary": 65000, "join_date": "2022-01-10"},
+  {"id": 5, "name": "Hamza Sheikh", "age": 31, "city": "Faisalabad", "department": "Engineering", "salary": 88000, "join_date": "2020-05-25"},
+  {"id": 6, "name": "Fatima Noor", "age": 29, "city": "Multan", "department": "HR", "salary": 60000, "join_date": "2021-09-12"},
+  {"id": 7, "name": "Bilal Hussain", "age": 38, "city": "Rawalpindi", "department": "Sales", "salary": 78000, "join_date": "2018-02-05"},
+  {"id": 8, "name": "Zainab Iqbal", "age": 33, "city": "Karachi", "department": "Finance", "salary": 92000, "join_date": "2017-08-30"},
+  {"id": 9, "name": "Omar Farooq", "age": 45, "city": "Islamabad", "department": "Management", "salary": 120000, "join_date": "2014-04-18"},
+  {"id": 10, "name": "Hira Tariq", "age": 27, "city": "Lahore", "department": "Marketing", "salary": 68000, "join_date": "2022-06-22"}
+]
